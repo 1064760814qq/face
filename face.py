@@ -1,5 +1,7 @@
 # #1.导入库
 import cv2
+
+import pandas
 # #2 加载图片
 # image = cv2.imread('C:/Users/10647/Desktop/demo1/timg (1).jfif')
 # #3 加载人脸模型
@@ -7,7 +9,6 @@ import cv2
 # #4 调整图片灰度
 #
 # #5 检查人脸
-#
 # #6 标记人脸
 #
 # #7 创建窗口
